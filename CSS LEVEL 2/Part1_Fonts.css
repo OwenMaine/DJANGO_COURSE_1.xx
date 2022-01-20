@@ -1,0 +1,57 @@
+h1{
+  font-family: 'Moon Dance', cursive;
+  text-align: center;
+}
+
+#zero{
+  margin: auto;
+  padding: 40px;
+}
+
+
+
+#cell1{
+    border: 10px solid #264653;
+    background: #264653;
+    width: 5%;
+        padding: 30%;
+    margin: auto;
+
+
+
+
+
+}
+
+#cell2{
+  border: 10px solid #2a9d8f;
+  background: #2a9d8f;
+  width: 5%;
+  padding: 30%;
+  margin: auto;
+
+}
+
+#cell3{
+  border: 10px solid #e9c46a;
+  background: #e9c46a;
+  width: 5%;
+  padding: 30%;
+  margin: auto;
+
+}
+
+#cell4{
+  border: 10px solid #f4a261;
+  background: #f4a261;
+  width: 5%;
+  padding: 30%;
+  margin: auto;
+}
+
+#cell5{
+  border: 10px solid #e76f51;
+  background: #e76f51;
+  width: 5%;
+  padding: 30%;
+  margin: auto;

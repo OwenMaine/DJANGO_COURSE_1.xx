@@ -1,0 +1,24 @@
+body{
+  text-align: center;
+  background: #3e639e;
+  border: 15px solid #83a3d6;
+}
+
+h1{
+  font-family: 'PT Sans', sans-serif;
+}
+
+h2{
+  font-family:  'Ubuntu', sans-serif;
+}
+
+p{
+  font-family: 'Dosis', sans-serif;
+}
+
+#sub{
+  background: yellow;
+  border: 4px solid #d6d683;
+  padding: 10px;
+  border-radius: 10px;
+}
